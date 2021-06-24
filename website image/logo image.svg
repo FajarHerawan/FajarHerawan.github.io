@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="94" viewBox="0 0 80 94">
+  <g id="logo_image" data-name="logo image" transform="translate(-1420 -2073)">
+    <text id="L" transform="translate(1420 2073)" fill="#6e00ff" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="42">L</tspan></text>
+    <text id="G" transform="translate(1435 2111)" fill="#6e00ff" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="42">G</tspan></text>
+    <text id="O" transform="translate(1438 2073)" fill="#ff64cb" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700" opacity="0.55"><tspan x="0" y="42">O</tspan></text>
+    <text id="O-2" data-name="O" transform="translate(1468 2111)" fill="#ff64cb" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700" opacity="0.55"><tspan x="0" y="42">O</tspan></text>
+  </g>
+</svg>
